@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.lines {
+    width: 10px;
+    background: #000;
+    height: 200px;
+    margin: auto;
+}
+.light-container {
+    background: #002;
+    margin: auto;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.light-container img {
+    width: 100%;
+}
